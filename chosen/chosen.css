@@ -132,8 +132,7 @@
 /* @end */
 
 .chzn-container-single-nosearch .chzn-search input {
-  position: absolute;
-  left: -9000px;
+  display: none;
 }
 
 /* @group Multi Chosen */
